@@ -1,0 +1,5 @@
+data/data_norm_sub5.csv
+**/*.html
+**/*_cache/
+**/*_files/
+.lintr
