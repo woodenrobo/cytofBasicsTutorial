@@ -1,10 +1,4 @@
----
-title: "Basics of clustering"
-subtitle: "Implementation & differences between algorithms"
-output:
-  pdf_document: 
-    toc: true
----
+
 # 1. Introduction 
 In this tutorial we will analyse a public data set (Georg et al. 2021, https://doi.org/10.1016/j.cell.2021.12.040) of single cell proteomics measured with Cytometry by Time of Flight (CyTOF). 
 
@@ -61,4 +55,5 @@ https://1drv.ms/x/c/7e6c087974dcbe2e/EaDkck7zeylNo1igbGXrBOwBeYAXsVFHeQzfgZmouIp
 # 4. Help
 Just let me know if you need help: 
 - Lev Petrov (levpetrov@omnicyto.com)
+
 
